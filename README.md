@@ -24,10 +24,3 @@ After running the application, following steps needs to be followed:
 on the Task Completed button.
 This is how the project will function and help us keep a well-maintained track
 of the tasks or the meetings that we need to complete.
-
-Screenshots:
-![image](https://user-images.githubusercontent.com/34773345/118358765-f92e8300-b59d-11eb-80a9-c4bb8a918f0a.png)
-![image](https://user-images.githubusercontent.com/34773345/118358769-fdf33700-b59d-11eb-9525-bf354da7a270.png)
-![image](https://user-images.githubusercontent.com/34773345/118358772-00ee2780-b59e-11eb-9cab-353711701f33.png)
-![image](https://user-images.githubusercontent.com/34773345/118358775-0481ae80-b59e-11eb-8867-940a62f040ad.png)
-![image](https://user-images.githubusercontent.com/34773345/118358776-077c9f00-b59e-11eb-8244-555a5bc583d5.png)
